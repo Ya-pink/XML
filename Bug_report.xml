@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<BugReport>
+<BugId>111</BugId>
+<Title>Widjet takes the wrong shape on the homescreen</Title>
+<Severity>Minor</Severity>
+<Priority>Low</Priority>
+<Environment>Pixel 3a Android 12</Environment>
+<Precondition>Installed app on the device</Precondition>
+<STR>Open the APP 2. Tap “Add widjet” button 3. Go to home screen"</STR>
+<AR>App add widjet with the wrong shape that can't be changed to the right one</AR>
+</BugReport>
